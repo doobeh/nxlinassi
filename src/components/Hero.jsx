@@ -31,7 +31,8 @@ export function Hero() {
           {[
             ['Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'],
             ['Cursus vitae congue mauris rhoncus. Nunc eget lorem dolor sed viverra ipsum nunc aliquet bibendum. Dolor sit amet consectetur adipiscing elit duis. Amet mauris commodo quis imperdiet.'],
-            ['Dictumst quisque sagittis purus sit amet volutpat.']
+            ['Dictumst quisque sagittis purus sit amet volutpat. Deploy test.'],
+            
           ].map(([name]) => (
               <p>{name}</p>
 
